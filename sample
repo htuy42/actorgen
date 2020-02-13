@@ -1,0 +1,11 @@
+com.htuy.actors
+
+ActorSample
+
+String id
+
+fun requestOrder(String name)
+
+fun makeOrder(List<String> colors, Boolean good) : Int
+
+fun makeOrder2(List<String> colors, Boolean good):Int
